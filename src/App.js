@@ -292,7 +292,7 @@ function Home() {
 
   return (
     <DashboardLayout>
-      <Container fluid>
+      <Container>
         <Row>
           <h1>Home</h1>
         </Row>
